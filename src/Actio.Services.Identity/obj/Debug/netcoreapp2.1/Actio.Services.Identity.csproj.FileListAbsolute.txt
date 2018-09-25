@@ -1,0 +1,17 @@
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.deps.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.dev.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.pdb
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cs
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfo.cs
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorTargetAssemblyInfo.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CopyComplete
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.pdb

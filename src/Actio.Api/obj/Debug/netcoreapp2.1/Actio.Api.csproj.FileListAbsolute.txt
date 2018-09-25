@@ -1,0 +1,17 @@
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.deps.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.dev.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.pdb
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csprojAssemblyReference.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CoreCompileInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cs
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfoInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfo.cs
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorTargetAssemblyInfo.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CopyComplete
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.pdb

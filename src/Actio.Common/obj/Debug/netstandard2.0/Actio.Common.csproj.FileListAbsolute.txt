@@ -1,0 +1,9 @@
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csprojAssemblyReference.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+C:\Personal\Personal\Learning\Code.NET-Core-Microservices\Excersise\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb
