@@ -21,7 +21,7 @@ namespace Actio.Common.Services
 
         public static HostBuilder Create<TStartUp>(string[] args) where TStartUp : class
         {
-            Console.Title = typeof(TStartUp).Name;
+            Console.Title = typeof(TStartUp).Namespace;
             var config = new ConfigurationBuilder()
             .AddEnvironmentVariables()
             .AddCommandLine(args)
@@ -43,15 +43,17 @@ namespace Actio.Common.Services
         public class HostBuilder : BuilderBase
         {
             private readonly IWebHost _webHost;
-            private readonly IBusClient _bus;
+            private IBusClient _bus;
             public HostBuilder(IWebHost webHost)
             {
                 _webHost = webHost;
-                _bus = (IBusClient)_webHost.Services.GetService(typeof(IBusClient));
+
+
             }
 
             public BusBuilder UseRabbitMq()
             {
+                _bus = (IBusClient)_webHost.Services.GetService(typeof(IBusClient));
                 return new BusBuilder(_webHost, _bus);
             }
             public override ServiceHost Build()
@@ -64,12 +66,12 @@ namespace Actio.Common.Services
         {
 
             private readonly IWebHost _webHost;
-            private readonly IBusClient _bus;
+            private IBusClient _bus;
 
-            public BusBuilder(IWebHost webHost, IBusClient busClient)
+            public BusBuilder(IWebHost webHost, IBusClient bus)
             {
                 _webHost = webHost;
-                _bus = busClient;
+                _bus = bus;
             }
 
             public BusBuilder SubscribeToCommand<TCommand>() where TCommand : ICommand

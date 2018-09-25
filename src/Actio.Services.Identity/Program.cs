@@ -16,11 +16,11 @@ namespace Actio.Services.Identity
     {
         public static void Main(string[] args)
         {
-            ServiceHost.Create<StartupBase>(args)
-        .UseRabbitMq()
-        .SubscribeToCommand<CreateUser>()
-        .Build()
-        .Run();
+            ServiceHost.Create<Startup>(args)
+               .UseRabbitMq()
+               .SubscribeToCommand<CreateUser>()
+               .Build()
+               .Run();
         }
     }
 }
